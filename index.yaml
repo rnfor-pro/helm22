@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  apps:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-04T20:27:26.728466756Z"
+    description: A Helm chart for Kubernetes
+    digest: a9c29035ade66fe598e478a28e51cd206ca787142ef65fb343a689da373b945d
+    name: apps
+    type: application
+    urls:
+    - https://rnfor-pro.github.io/helm22/apps-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-04T20:27:26.727642814Z"
